@@ -10,6 +10,18 @@ sudo service elasticsearch stop
 curl -XGET http://localhost:9200
 
 
+
+http://www.elasticsearchtutorial.com/elasticsearch-in-5-minutes.html
+
+
+http://www.elasticsearchtutorial.com/basic-elasticsearch-concepts.html
+
+
+http://localhost:9200/blog/_search?pretty=true" -d 
+
+
+
+
 Index: Database
 TYPE/Mapping===> Table
 Document ==>ROW 
