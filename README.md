@@ -4,6 +4,9 @@
      i) Logstash (streaming and processing logs)
      ii) Elastic Search (Database) 
      iii) Kibana (Visualization)
+     
+# Free ElasticSearch Cluster Online https://bonsai.io/
+
 HDF – Streaming services running behind NiFi
 MapR Streams – Streaming services running on MapR cluster
 AWS Services
